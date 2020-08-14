@@ -1,0 +1,18 @@
+
+The architecture of the neural network is simple and easy to understand. The database that the model uses is included. 
+The database has many parameters but the one of interest is the number of people infected by Covid-19 worldwide. 
+The network can generate models using any other time series database in the same format as the database found in this 
+publication.
+
+We are very grateful to the John Hopkins University School of Medicine for allowing us access to their database of the 
+number of infected worldwide. If you want to update the database, please, go to the John Hopkins University repository and 
+copy only the new files,DO NOT REPLACE THE ONES ALREADY IN THE DATABASE YOU DOWNLOADED HERE. Be guided by the 
+reading direction in the program.
+
+Please, check the database and its format if you want to generate your own predictive model 
+in your country or region. This program is ready to run with the database that was published here. You can modify the 
+program as you want. If you will use the program in any publication, please mention this repository and its author. 
+
+Thank you.
+
+---->  priusmaxgame@gmail.com  :    Contact for more information
